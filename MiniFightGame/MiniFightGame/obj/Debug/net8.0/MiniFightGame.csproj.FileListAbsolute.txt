@@ -1,0 +1,14 @@
+C:\Users\MihtatKalay\source\repos\MiniFightGame\MiniFightGame\bin\Debug\net8.0\MiniFightGame.exe
+C:\Users\MihtatKalay\source\repos\MiniFightGame\MiniFightGame\bin\Debug\net8.0\MiniFightGame.deps.json
+C:\Users\MihtatKalay\source\repos\MiniFightGame\MiniFightGame\bin\Debug\net8.0\MiniFightGame.runtimeconfig.json
+C:\Users\MihtatKalay\source\repos\MiniFightGame\MiniFightGame\bin\Debug\net8.0\MiniFightGame.dll
+C:\Users\MihtatKalay\source\repos\MiniFightGame\MiniFightGame\bin\Debug\net8.0\MiniFightGame.pdb
+C:\Users\MihtatKalay\source\repos\MiniFightGame\MiniFightGame\obj\Debug\net8.0\MiniFightGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MihtatKalay\source\repos\MiniFightGame\MiniFightGame\obj\Debug\net8.0\MiniFightGame.AssemblyInfoInputs.cache
+C:\Users\MihtatKalay\source\repos\MiniFightGame\MiniFightGame\obj\Debug\net8.0\MiniFightGame.AssemblyInfo.cs
+C:\Users\MihtatKalay\source\repos\MiniFightGame\MiniFightGame\obj\Debug\net8.0\MiniFightGame.csproj.CoreCompileInputs.cache
+C:\Users\MihtatKalay\source\repos\MiniFightGame\MiniFightGame\obj\Debug\net8.0\MiniFightGame.dll
+C:\Users\MihtatKalay\source\repos\MiniFightGame\MiniFightGame\obj\Debug\net8.0\refint\MiniFightGame.dll
+C:\Users\MihtatKalay\source\repos\MiniFightGame\MiniFightGame\obj\Debug\net8.0\MiniFightGame.pdb
+C:\Users\MihtatKalay\source\repos\MiniFightGame\MiniFightGame\obj\Debug\net8.0\MiniFightGame.genruntimeconfig.cache
+C:\Users\MihtatKalay\source\repos\MiniFightGame\MiniFightGame\obj\Debug\net8.0\ref\MiniFightGame.dll
